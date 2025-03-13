@@ -1,3 +1,5 @@
 data=(123)
-som=sum(data)
-print ("la somme est:" ,som)
+print ( "la somme ",sum(data))
+print ("lle min"min(data))
+print ("lle max"max(data))
+
